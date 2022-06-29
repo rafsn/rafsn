@@ -1,5 +1,5 @@
 ![capaGithub](https://user-images.githubusercontent.com/86615648/176479295-a1da4f64-81b2-4b01-bab5-2cb7a3a4fcb2.jpg)
-<h1 align="center">I'm Rafa ! ⚡</h1>
+<h1 align="center">I'm Rafa !⚡</h1>
 <h3 align="center">Estudante de Programação.</h3>
 
 - 🌱 Aprendendo e aperfeiçoando: **HTML, CSS, JavaScript e Dados**
