@@ -2,7 +2,8 @@
 <h1 align="center">I'm Rafa !⚡</h1>
 <h3 align="center">Estudante de Programação.</h3>
 
-- 🌱 Aprendendo e aperfeiçoando: **HTML, CSS, JavaScript e Dados**
+- 🌱 Aprendendo e aperfeiçoando: **Android Native 🤖**
+- 📚 Conhecimentos em: **HTML, CSS E JS**
 
 - 👨‍💻 Segue alguns dos poucos projetos que realizei em Aulas/Bootcamps: [https://vercel.com/rafsn](https://vercel.com/rafsn)
 
