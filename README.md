@@ -7,7 +7,7 @@
 
 - 👨‍💻 Segue alguns dos poucos projetos que realizei em Aulas/Bootcamps: [https://vercel.com/rafsn](https://vercel.com/rafsn)
 
-- 📫 **santos_rafa1973@hotmail.com.**
+- 📫 **raff.sntos@gmail.com.**
 
 - 🔭 Salvador - Ba
 
